@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Sahu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif">
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshs214&label=Profile%20views&color=0e75b6&style=flat" alt="riteshs214" /> </p>
 
